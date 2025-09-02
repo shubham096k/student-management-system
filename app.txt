@@ -1,1 +1,5 @@
+Function addStudent(name, age, grade) -> Adds a new student to the system.
+- Validates input before saving.
+- Assigns a unique student ID automatically.
+- Stores record in the student database.
 
